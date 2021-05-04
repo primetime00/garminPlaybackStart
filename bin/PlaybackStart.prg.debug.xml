@@ -216,10 +216,10 @@
 <entry arg="true" endPc="268436612" name="state" stackId="1" startPc="268436607"/>
 <entry arg="true" endPc="268436617" name="state" stackId="1" startPc="268436612"/>
 <entry arg="true" endPc="268436645" name="arg" stackId="1" startPc="268436617"/>
-<entry endPc="268437160" name="rez_cmp_local_text_3496826156" stackId="2" startPc="268436829"/>
+<entry endPc="268437160" name="rez_cmp_local_text_3233086515" stackId="2" startPc="268436829"/>
 <entry endPc="268437160" name="rez_cmp_local_bitmap_id_monkey" stackId="3" startPc="268436829"/>
 <entry arg="true" endPc="268437161" name="dc" stackId="1" startPc="268436817"/>
-<entry endPc="268437504" name="rez_cmp_local_text_3244288056" stackId="2" startPc="268437173"/>
+<entry endPc="268437504" name="rez_cmp_local_text_1454005364" stackId="2" startPc="268437173"/>
 <entry endPc="268437504" name="rez_cmp_local_bitmap_id_monkey" stackId="3" startPc="268437173"/>
 <entry arg="true" endPc="268437505" name="dc" stackId="1" startPc="268437161"/>
 </localVars>

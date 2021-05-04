@@ -4,7 +4,7 @@ using Toybox.Application;
 
 class PlaybackStartSyncDelegate extends Media.SyncDelegate {
 
-	var url = "https://github.com/primetime00/garminWifiTest/raw/main/audio/test.mp3";
+	var url = "https://github.com/primetime00/garminPlaybackStart/raw/main/audio/time.mp3";
 
     function initialize() {
         SyncDelegate.initialize();        

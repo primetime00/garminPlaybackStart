@@ -20,7 +20,7 @@ class PlaybackStartContentIterator extends Media.ContentIterator {
         }
     	var ref = new Media.ContentRef(id, Media.CONTENT_TYPE_AUDIO);
     	var audio = Media.getCachedContentObj(ref);
-    	var pos = 50;    	    	
+    	var pos = 800;    	    	
     	return new Media.ActiveContent(ref, audio.getMetadata(), pos);            
     }
 
