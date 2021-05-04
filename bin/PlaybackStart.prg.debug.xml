@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="C:\Users\Ryan\workspace\PlaybackStart\manifest.xml"/>
+<pcToLineNum>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentIterator.mc" id="3" lineNum="6" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentIterator.mc" id="3" lineNum="7" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentIterator.mc" id="4" lineNum="11" pc="268435479" symbol="canSkip"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentIterator.mc" id="4" lineNum="12" pc="268435483" symbol="canSkip"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentIterator.mc" id="5" lineNum="15" pc="268435487" symbol="getAudio"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentIterator.mc" id="5" lineNum="16" pc="268435491" symbol="getAudio"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentIterator.mc" id="5" lineNum="17" pc="268435508" symbol="getAudio"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentIterator.mc" id="5" lineNum="18" pc="268435526" symbol="getAudio"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentIterator.mc" id="5" lineNum="19" pc="268435533" symbol="getAudio"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentIterator.mc" id="5" lineNum="21" pc="268435538" symbol="getAudio"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentIterator.mc" id="5" lineNum="22" pc="268435580" symbol="getAudio"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentIterator.mc" id="5" lineNum="23" pc="268435599" symbol="getAudio"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentIterator.mc" id="5" lineNum="24" pc="268435606" symbol="getAudio"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentIterator.mc" id="6" lineNum="28" pc="268435649" symbol="get"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentIterator.mc" id="6" lineNum="29" pc="268435653" symbol="get"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentIterator.mc" id="7" lineNum="33" pc="268435666" symbol="getPlaybackProfile"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentIterator.mc" id="7" lineNum="34" pc="268435670" symbol="getPlaybackProfile"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentIterator.mc" id="7" lineNum="35" pc="268435698" symbol="getPlaybackProfile"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentIterator.mc" id="7" lineNum="36" pc="268435708" symbol="getPlaybackProfile"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentIterator.mc" id="7" lineNum="41" pc="268435770" symbol="getPlaybackProfile"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentIterator.mc" id="7" lineNum="42" pc="268435783" symbol="getPlaybackProfile"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentIterator.mc" id="7" lineNum="43" pc="268435793" symbol="getPlaybackProfile"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentIterator.mc" id="7" lineNum="44" pc="268435802" symbol="getPlaybackProfile"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentIterator.mc" id="7" lineNum="45" pc="268435812" symbol="getPlaybackProfile"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentIterator.mc" id="8" lineNum="49" pc="268435816" symbol="next"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentIterator.mc" id="8" lineNum="50" pc="268435820" symbol="next"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentIterator.mc" id="9" lineNum="54" pc="268435833" symbol="peekNext"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentIterator.mc" id="9" lineNum="55" pc="268435837" symbol="peekNext"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentIterator.mc" id="10" lineNum="59" pc="268435850" symbol="peekPrevious"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentIterator.mc" id="10" lineNum="60" pc="268435854" symbol="peekPrevious"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentIterator.mc" id="11" lineNum="64" pc="268435867" symbol="previous"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentIterator.mc" id="11" lineNum="65" pc="268435871" symbol="previous"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentIterator.mc" id="12" lineNum="69" pc="268435884" symbol="shuffling"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentIterator.mc" id="12" lineNum="70" pc="268435888" symbol="shuffling"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartSyncDelegate.mc" id="14" lineNum="9" pc="268435892" symbol="initialize"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartSyncDelegate.mc" id="14" lineNum="10" pc="268435896" symbol="initialize"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartSyncDelegate.mc" id="15" lineNum="13" pc="268435915" symbol="onDone"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartSyncDelegate.mc" id="15" lineNum="14" pc="268435919" symbol="onDone"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartSyncDelegate.mc" id="15" lineNum="15" pc="268435930" symbol="onDone"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartSyncDelegate.mc" id="15" lineNum="16" pc="268435947" symbol="onDone"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartSyncDelegate.mc" id="15" lineNum="17" pc="268435975" symbol="onDone"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartSyncDelegate.mc" id="15" lineNum="18" pc="268435998" symbol="onDone"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartSyncDelegate.mc" id="15" lineNum="20" pc="268436022" symbol="onDone"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartSyncDelegate.mc" id="15" lineNum="21" pc="268436045" symbol="onDone"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartSyncDelegate.mc" id="16" lineNum="28" pc="268436063" symbol="onStartSync"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartSyncDelegate.mc" id="16" lineNum="29" pc="268436067" symbol="onStartSync"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartSyncDelegate.mc" id="16" lineNum="32" pc="268436135" symbol="onStartSync"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartSyncDelegate.mc" id="17" lineNum="36" pc="268436179" symbol="isSyncNeeded"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartSyncDelegate.mc" id="17" lineNum="37" pc="268436183" symbol="isSyncNeeded"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartSyncDelegate.mc" id="17" lineNum="38" pc="268436200" symbol="isSyncNeeded"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartSyncDelegate.mc" id="17" lineNum="39" pc="268436218" symbol="isSyncNeeded"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartSyncDelegate.mc" id="18" lineNum="43" pc="268436224" symbol="onStopSync"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartSyncDelegate.mc" id="18" lineNum="44" pc="268436228" symbol="onStopSync"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartSyncDelegate.mc" id="18" lineNum="45" pc="268436244" symbol="onStopSync"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartConfigurePlaybackDelegate.mc" id="20" lineNum="5" pc="268436262" symbol="initialize"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartConfigurePlaybackDelegate.mc" id="20" lineNum="6" pc="268436266" symbol="initialize"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartConfigureSyncView.mc" id="22" lineNum="8" pc="268436285" symbol="initialize"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartConfigureSyncView.mc" id="22" lineNum="9" pc="268436289" symbol="initialize"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartConfigureSyncView.mc" id="23" lineNum="13" pc="268436308" symbol="onLayout"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartConfigureSyncView.mc" id="23" lineNum="14" pc="268436312" symbol="onLayout"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartConfigureSyncView.mc" id="24" lineNum="20" pc="268436350" symbol="onShow"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartConfigureSyncView.mc" id="25" lineNum="24" pc="268436355" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartConfigureSyncView.mc" id="25" lineNum="26" pc="268436359" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartConfigureSyncView.mc" id="26" lineNum="32" pc="268436380" symbol="onHide"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentDelegate.mc" id="28" lineNum="8" pc="268436385" symbol="initialize"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentDelegate.mc" id="28" lineNum="9" pc="268436389" symbol="initialize"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentDelegate.mc" id="29" lineNum="15" pc="268436408" symbol="getContentIterator"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentDelegate.mc" id="29" lineNum="16" pc="268436412" symbol="getContentIterator"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentDelegate.mc" id="30" lineNum="20" pc="268436436" symbol="onAdAction"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentDelegate.mc" id="31" lineNum="24" pc="268436441" symbol="onThumbsUp"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentDelegate.mc" id="32" lineNum="28" pc="268436446" symbol="onThumbsDown"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentDelegate.mc" id="33" lineNum="32" pc="268436451" symbol="onShuffle"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartContentDelegate.mc" id="34" lineNum="37" pc="268436456" symbol="onSong"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartConfigurePlaybackView.mc" id="36" lineNum="5" pc="268436461" symbol="initialize"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartConfigurePlaybackView.mc" id="36" lineNum="6" pc="268436465" symbol="initialize"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartConfigurePlaybackView.mc" id="37" lineNum="10" pc="268436484" symbol="onLayout"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartConfigurePlaybackView.mc" id="37" lineNum="11" pc="268436488" symbol="onLayout"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartConfigurePlaybackView.mc" id="38" lineNum="17" pc="268436526" symbol="onShow"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartConfigurePlaybackView.mc" id="39" lineNum="21" pc="268436531" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartConfigurePlaybackView.mc" id="39" lineNum="23" pc="268436535" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartConfigurePlaybackView.mc" id="40" lineNum="29" pc="268436556" symbol="onHide"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartConfigureSyncDelegate.mc" id="42" lineNum="5" pc="268436561" symbol="initialize"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartConfigureSyncDelegate.mc" id="42" lineNum="6" pc="268436565" symbol="initialize"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartApp.mc" id="44" lineNum="5" pc="268436584" symbol="initialize"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartApp.mc" id="44" lineNum="6" pc="268436588" symbol="initialize"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartApp.mc" id="45" lineNum="10" pc="268436607" symbol="onStart"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartApp.mc" id="46" lineNum="14" pc="268436612" symbol="onStop"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartApp.mc" id="47" lineNum="18" pc="268436617" symbol="getContentDelegate"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartApp.mc" id="47" lineNum="19" pc="268436621" symbol="getContentDelegate"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartApp.mc" id="48" lineNum="23" pc="268436645" symbol="getSyncDelegate"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartApp.mc" id="48" lineNum="24" pc="268436649" symbol="getSyncDelegate"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartApp.mc" id="49" lineNum="28" pc="268436673" symbol="getPlaybackConfigurationView"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartApp.mc" id="49" lineNum="29" pc="268436677" symbol="getPlaybackConfigurationView"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartApp.mc" id="50" lineNum="33" pc="268436745" symbol="getSyncConfigurationView"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\PlaybackStart\\source\\PlaybackStartApp.mc" id="50" lineNum="34" pc="268436749" symbol="getSyncConfigurationView"/>
+<entry filename="Rez" id="56" lineNum="16" pc="268436817" symbol="ConfigurePlaybackLayout"/>
+<entry filename="Rez" id="56" lineNum="18" pc="268436829" symbol="ConfigurePlaybackLayout"/>
+<entry filename="Rez" id="56" lineNum="19" pc="268436981" symbol="ConfigurePlaybackLayout"/>
+<entry filename="Rez" id="56" lineNum="20" pc="268437093" symbol="ConfigurePlaybackLayout"/>
+<entry filename="Rez" id="56" lineNum="22" pc="268437133" symbol="ConfigurePlaybackLayout"/>
+<entry filename="Rez" id="57" lineNum="31" pc="268437161" symbol="ConfigureSyncLayout"/>
+<entry filename="Rez" id="57" lineNum="33" pc="268437173" symbol="ConfigureSyncLayout"/>
+<entry filename="Rez" id="57" lineNum="34" pc="268437325" symbol="ConfigureSyncLayout"/>
+<entry filename="Rez" id="57" lineNum="35" pc="268437437" symbol="ConfigureSyncLayout"/>
+<entry filename="Rez" id="57" lineNum="37" pc="268437477" symbol="ConfigureSyncLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="8390434" method="true" symbol="getSyncConfigurationView"/>
+<entry id="8389346" symbol="text"/>
+<entry id="16" object="true" symbol="PlaybackStartApp"/>
+<entry id="8390211" module="true" symbol="Media"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry id="8390379" method="true" symbol="onThumbsUp"/>
+<entry id="8390380" method="true" symbol="onThumbsDown"/>
+<entry id="4" module="true" symbol="globals/Rez/Menus"/>
+<entry field="true" id="26" symbol="url"/>
+<entry id="8388826" method="true" symbol="next"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8390377" method="true" symbol="getContentIterator"/>
+<entry id="8390373" method="true" symbol="shuffling"/>
+<entry field="true" id="25" symbol="AppName"/>
+<entry id="8390459" method="true" symbol="onStopSync"/>
+<entry id="8" module="true" symbol="globals/Rez/Strings"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="8390430" method="true" symbol="getContentDelegate"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="10" object="true" symbol="PlaybackStartSyncDelegate"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry id="8390378" method="true" symbol="onAdAction"/>
+<entry field="true" id="19" symbol="id_monkey"/>
+<entry id="8388789" method="true" symbol="get"/>
+<entry id="8390342" method="true" symbol="isSyncNeeded"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="11" object="true" symbol="PlaybackStartConfigurePlaybackDelegate"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8390422" method="true" symbol="onDone"/>
+<entry id="8390431" method="true" symbol="getSyncDelegate"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389348" symbol="font"/>
+<entry id="18" module="true" symbol="Menus"/>
+<entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="12" object="true" symbol="PlaybackStartConfigureSyncView"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+<entry id="8388637" module="true" symbol="Communications"/>
+<entry id="9" object="true" symbol="PlaybackStartContentIterator"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry id="8390371" method="true" symbol="peekNext"/>
+<entry id="8390372" method="true" symbol="peekPrevious"/>
+<entry id="8389844" symbol="responseType"/>
+<entry id="27" method="true" symbol="getAudio"/>
+<entry id="8388786" method="true" symbol="method"/>
+<entry id="13" object="true" symbol="PlaybackStartContentDelegate"/>
+<entry id="8390382" method="true" symbol="onSong"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8390432" method="true" symbol="getPlaybackConfigurationView"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="20" symbol="LauncherIcon"/>
+<entry id="8390374" method="true" symbol="canSkip"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8390369" method="true" symbol="getPlaybackProfile"/>
+<entry id="15" object="true" symbol="PlaybackStartConfigureSyncDelegate"/>
+<entry id="8390370" method="true" symbol="previous"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8390341" method="true" symbol="onStartSync"/>
+<entry id="21" method="true" symbol="ConfigurePlaybackLayout"/>
+<entry id="14" object="true" symbol="PlaybackStartConfigurePlaybackView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="23" symbol="configurePlaybackMessage"/>
+<entry id="17" module="true" symbol="Layouts"/>
+<entry id="22" method="true" symbol="ConfigureSyncLayout"/>
+<entry id="8390381" method="true" symbol="onShuffle"/>
+<entry field="true" id="24" symbol="configureSyncMessage"/>
+<entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+<entry id="8390441" object="true" symbol="mediaEncoding"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435648" name="audio" stackId="4" startPc="268435491"/>
+<entry endPc="268435648" name="ref" stackId="3" startPc="268435491"/>
+<entry endPc="268435648" name="app" stackId="1" startPc="268435491"/>
+<entry endPc="268435648" name="pos" stackId="5" startPc="268435491"/>
+<entry endPc="268435648" name="id" stackId="2" startPc="268435491"/>
+<entry endPc="268435815" name="profile" stackId="1" startPc="268435670"/>
+<entry endPc="268436019" name="app" stackId="3" startPc="268435930"/>
+<entry arg="true" endPc="268436063" name="code" stackId="1" startPc="268435915"/>
+<entry arg="true" endPc="268436063" name="data" stackId="2" startPc="268435915"/>
+<entry endPc="268436178" name="options" stackId="1" startPc="268436067"/>
+<entry endPc="268436223" name="app" stackId="1" startPc="268436183"/>
+<entry endPc="268436223" name="id" stackId="2" startPc="268436183"/>
+<entry arg="true" endPc="268436350" name="dc" stackId="1" startPc="268436308"/>
+<entry arg="true" endPc="268436380" name="dc" stackId="1" startPc="268436355"/>
+<entry arg="true" endPc="268436441" name="adContext" stackId="1" startPc="268436436"/>
+<entry arg="true" endPc="268436446" name="contentRefId" stackId="1" startPc="268436441"/>
+<entry arg="true" endPc="268436451" name="contentRefId" stackId="1" startPc="268436446"/>
+<entry arg="true" endPc="268436461" name="playbackPosition" stackId="3" startPc="268436456"/>
+<entry arg="true" endPc="268436461" name="songEvent" stackId="2" startPc="268436456"/>
+<entry arg="true" endPc="268436461" name="contentRefId" stackId="1" startPc="268436456"/>
+<entry arg="true" endPc="268436526" name="dc" stackId="1" startPc="268436484"/>
+<entry arg="true" endPc="268436556" name="dc" stackId="1" startPc="268436531"/>
+<entry arg="true" endPc="268436612" name="state" stackId="1" startPc="268436607"/>
+<entry arg="true" endPc="268436617" name="state" stackId="1" startPc="268436612"/>
+<entry arg="true" endPc="268436645" name="arg" stackId="1" startPc="268436617"/>
+<entry endPc="268437160" name="rez_cmp_local_text_3496826156" stackId="2" startPc="268436829"/>
+<entry endPc="268437160" name="rez_cmp_local_bitmap_id_monkey" stackId="3" startPc="268436829"/>
+<entry arg="true" endPc="268437161" name="dc" stackId="1" startPc="268436817"/>
+<entry endPc="268437504" name="rez_cmp_local_text_3244288056" stackId="2" startPc="268437173"/>
+<entry endPc="268437504" name="rez_cmp_local_bitmap_id_monkey" stackId="3" startPc="268437173"/>
+<entry arg="true" endPc="268437505" name="dc" stackId="1" startPc="268437161"/>
+</localVars>
+<annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="198" parentId="globals" symbolId="PlaybackStartConfigurePlaybackDelegate" type="class"/>
+<dataEntry offset="245" parentId="globals" symbolId="PlaybackStartConfigurePlaybackView" type="class"/>
+<dataEntry offset="324" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="403" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="450" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="481" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="512" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="559" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="590" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="645" parentId="globals" symbolId="PlaybackStartConfigureSyncDelegate" type="class"/>
+<dataEntry offset="692" parentId="globals" symbolId="PlaybackStartSyncDelegate" type="class"/>
+<dataEntry offset="779" parentId="globals" symbolId="PlaybackStartApp" type="class"/>
+<dataEntry offset="874" parentId="globals" symbolId="PlaybackStartContentIterator" type="class"/>
+<dataEntry offset="993" parentId="globals" symbolId="PlaybackStartConfigureSyncView" type="class"/>
+<dataEntry offset="1072" parentId="globals" symbolId="PlaybackStartContentDelegate" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="PlaybackStartContentIterator">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="canSkip" parent="PlaybackStartContentIterator">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getAudio" parent="PlaybackStartContentIterator">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="get" parent="PlaybackStartContentIterator">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getPlaybackProfile" parent="PlaybackStartContentIterator">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="next" parent="PlaybackStartContentIterator">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="peekNext" parent="PlaybackStartContentIterator">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="peekPrevious" parent="PlaybackStartContentIterator">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="previous" parent="PlaybackStartContentIterator">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="shuffling" parent="PlaybackStartContentIterator">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="PlaybackStartSyncDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onDone" parent="PlaybackStartSyncDelegate">
+<param id="code"/>
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStartSync" parent="PlaybackStartSyncDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="isSyncNeeded" parent="PlaybackStartSyncDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStopSync" parent="PlaybackStartSyncDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="PlaybackStartConfigurePlaybackDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="PlaybackStartConfigureSyncView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="PlaybackStartConfigureSyncView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="PlaybackStartConfigureSyncView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="PlaybackStartConfigureSyncView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="PlaybackStartConfigureSyncView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="PlaybackStartContentDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getContentIterator" parent="PlaybackStartContentDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onAdAction" parent="PlaybackStartContentDelegate">
+<param id="adContext"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onThumbsUp" parent="PlaybackStartContentDelegate">
+<param id="contentRefId"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onThumbsDown" parent="PlaybackStartContentDelegate">
+<param id="contentRefId"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShuffle" parent="PlaybackStartContentDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSong" parent="PlaybackStartContentDelegate">
+<param id="contentRefId"/>
+<param id="songEvent"/>
+<param id="playbackPosition"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="PlaybackStartConfigurePlaybackView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="PlaybackStartConfigurePlaybackView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="PlaybackStartConfigurePlaybackView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="PlaybackStartConfigurePlaybackView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="PlaybackStartConfigurePlaybackView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="PlaybackStartConfigureSyncDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="PlaybackStartApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="PlaybackStartApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="PlaybackStartApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getContentDelegate" parent="PlaybackStartApp">
+<param id="arg"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getSyncDelegate" parent="PlaybackStartApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getPlaybackConfigurationView" parent="PlaybackStartApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getSyncConfigurationView" parent="PlaybackStartApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="ConfigurePlaybackLayout" parent="Layouts">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="ConfigureSyncLayout" parent="Layouts">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
